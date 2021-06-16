@@ -1,2 +1,10 @@
-# detecting-spillovers
-Detecting Intra-Cluster Spillovers Using a Placebo-Controlled Design by Anna M. Wilke
+# Detecting Intra-Cluster Spillovers Using a Placebo-Controlled Design
+
+Detecting Intra-Cluster Spillovers Using a Placebo-Controlled Design. Input Talk by [Anna M. Wilke](https://twitter.com/anna_m_wilke), June 16, 2021.
+
+### Abstract
+Questions about the degree to which treatment effects diffuse through social networks are of great policy relevance. For example, philanthropic groups routinely deploy media interventions in developing countries to promote pro-social attitudes. Even though studies have shown that such interventions can change the minds of those who are directly exposed to media content, less is known about the existence of second-hand or spillover effects. If audience members convey the media message to others in their social network, the media campaign’s reach expands, perhaps by a sizable factor. Scholarly interest in such spillover effects has grown markedly in recent years, and experimental designs to detect them have become increasingly sophisticated. In this talk, I present a design-based strategy to assess intra-cluster diffusion of treatment effects in cluster-randomized trials. The key design innovation is a placebo condition that helps reveal the degree to which experimental subjects would have been exposed to treatment had they been assigned to it. I contrast the approach with other design-based ways to identify spillover effects and present results from two large cluster-randomized experiments that implement this strategy. Both studies are set in rural Uganda and assess the effect of video dramatizations on the topics of violence against women, teacher absenteeism and abortion stigma. We find several instances of sizable and highly significant direct effects on the attitudes of audience members, but little evidence that these effects diffused to others in the villages where the videos were aired. A paper that employs the proposed design can be found [here](https://rss.onlinelibrary.wiley.com/doi/full/10.1111/rssa.12571).
+
+### Presenter
+Anna M. Wilke is a Ph.D. Candidate in Political Science at Columbia University and a Predoctoral Fellow at the University of California, Berkeley. Her work focuses on the comparative politics of developing countries, mainly in Sub-Saharan Africa. She has conducted field work in South Africa, Uganda and Ethiopia and employs experimental methods and formal theory in her research.
+
